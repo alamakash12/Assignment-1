@@ -1,0 +1,176 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.banner {
+    width: 1900px;
+    height: 800px;
+}
+
+.header {
+    display: flex;
+}
+
+.header-info {
+    width: 500px;
+    margin-left: -700px;
+    padding-top: 50px;
+}
+
+.button {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.header-heading {
+    text-align: left;
+}
+
+.header-paragraph {
+    text-align: left;
+    text-align: justify;
+}
+
+.header-button {
+    padding-top: 30px;
+    padding-left: 325px;
+}
+
+.body {
+    display: flex;
+    margin-top: 100px;
+}
+
+.body-image {
+    padding-left: 300px;
+}
+
+.body-info {
+    width: 500px;
+    margin-top: 40px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: justify;
+}
+
+.plans-expert {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.plans-expert-topic {
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.plans-expert-topic-padding {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.expert-topic-padding {
+    padding-left: 130px;
+    padding-right: 150px;
+}
+
+.image-expert {
+    width: 100px;
+    height: 100px;
+}
+
+.image {
+    margin-top: 100px;
+}
+
+.image-watch {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image-gradient {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -250px;
+    width: 50%;
+}
+
+.positive-mindset {
+    text-align: left;
+    display: block;
+    padding-left: 50px;
+    margin-top: -170px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    background-color: black;
+    margin-top: 150px;
+}
+
+.footer {
+    display: flex;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.footer-left {
+    width: 500px;
+    text-align: justify;
+    padding-right: 300PX;
+}
+
+.input-box-2 {
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 14.5px 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.footer-right {
+    margin-top: 130px;
+}
+
+
+.icon {
+    display: flex;
+}
+
+.icons {
+    padding-right: 30px;
+}
